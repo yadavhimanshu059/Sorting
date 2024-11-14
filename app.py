@@ -30,4 +30,4 @@ def sort_selection(input_data):
     return sorted_array
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
